@@ -1,6 +1,6 @@
 cask "orthant" do
-  version "1.0.1"
-  sha256 "198dc27c7ace9cdd002194c00cc9bfc005f60b8260b1e1734f9a80b6b0d7174b"
+  version "1.0.2"
+  sha256 "c4f25c0fc8d920cfe8585d585d1b32312f2a03561addf2c78ab9a34b77aa1dbb"
 
   url "https://github.com/orthant-app/orthant/releases/download/v#{version}/Orthant-#{version}.dmg",
       verified: "github.com/orthant-app/orthant/"
