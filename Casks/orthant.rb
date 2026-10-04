@@ -2,8 +2,7 @@ cask "orthant" do
   version "1.0.3"
   sha256 "8fd674686428aac575a0f9f64104054ab9edd0b41fc355b342d929359402b21e"
 
-  url "https://github.com/orthant-app/orthant/releases/download/v#{version}/Orthant-#{version}.dmg",
-      verified: "github.com/orthant-app/orthant/"
+  url "https://github.com/orthant-app/orthant/releases/download/v#{version}/Orthant-#{version}.dmg"
   name "Orthant"
   desc "Grid-based window manager driven by shortcuts or a drag-on-a-grid overlay"
   homepage "https://github.com/orthant-app/orthant"
